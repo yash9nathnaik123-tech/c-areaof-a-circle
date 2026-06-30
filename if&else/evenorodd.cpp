@@ -9,6 +9,10 @@ int main()
     {
         cout<<num<<" is an even number."<<endl;
     }
+    else if(num==0)
+    {
+        cout<<num<<" is zero."<<endl;
+    }
     else
     {
         cout<<num<<" is an odd number."<<endl;
